@@ -13,3 +13,8 @@ Storing
 ## Glossary
 * `Array`: data structure which stores a collection of element in contiguous memory location
 * `Contiguous memory`: data that resides within consecutive blocks of memory
+
+## Resources
+* https://www.cpp.edu/~elab/ECE114/Array.html
+* https://www.javascripttutorial.net/javascript-array/
+* https://www.educative.io/edpresso/contiguous-memory 
